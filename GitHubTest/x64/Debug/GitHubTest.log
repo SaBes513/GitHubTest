@@ -1,0 +1,5 @@
+﻿  GitHubTest.cpp
+  Mathem.cpp
+S:\CPPProj\GitHubTest\Mathem.cpp(5,18): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  GitHubTest.vcxproj -> S:\CPPProj\GitHubTest\x64\Debug\GitHubTest.exe

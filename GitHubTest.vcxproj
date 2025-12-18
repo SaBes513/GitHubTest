@@ -124,6 +124,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="GitHubTest.cpp" />
+    <ClCompile Include="Mathem.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Mathem.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

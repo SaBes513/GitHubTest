@@ -1,6 +1,8 @@
 ﻿#include <iostream>
+#include "Mathem.h"
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    PV511::RandInit();
+    std::cout << "Hello World!\n" << PV511::RandInt(100);
 }
